@@ -1,0 +1,7 @@
+Place,weather,Prob,value
+Outdoors,Sun,0.4,100
+Outdoors,Rain,0.6,0
+Proch,Sun,0.4,90
+Proch,Rain,0.6,20
+Indoors,Sun,0.4,40
+Indoors,Rain,0.6,50
